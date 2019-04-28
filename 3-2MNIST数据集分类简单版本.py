@@ -46,5 +46,6 @@ with tf.Session() as sess:
 
         acc = sess.run(accuracy, feed_dict={x: mnist.test.images, y: mnist.test.labels})
         print("Iter " + str(epoch) + ",Testing Accuracy " + str(acc))
+    writer = tf.summary.FileWriter("logs/", sess.graph)
 
 # In[ ]:
