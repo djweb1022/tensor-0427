@@ -2,155 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45528e7a-d3b9-4215-b3d1-081e2a73e157" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter03/.ipynb_checkpoints/1. 图，张量及会话-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter03/.ipynb_checkpoints/2. 三层简单神经网络的前向传播算法-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter03/.ipynb_checkpoints/3. 完整神经网络样例程序-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter03/1. 图，张量及会话.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter03/2. 三层简单神经网络的前向传播算法.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter03/3. 完整神经网络样例程序.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter04/.ipynb_checkpoints/1. 自定义损失函数-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter04/.ipynb_checkpoints/2. 学习率的设置-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter04/.ipynb_checkpoints/3. 正则化-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter04/.ipynb_checkpoints/4. 滑动平均模型-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter04/1. 自定义损失函数.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter04/2. 学习率的设置.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter04/3. 正则化.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter04/4. 滑动平均模型.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/.ipynb_checkpoints/1. MNIST读取数据-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/.ipynb_checkpoints/2. TensorFlow训练神经网络-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/.ipynb_checkpoints/3. 变量管理-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/.ipynb_checkpoints/4.1. ckpt文件保存方法-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/.ipynb_checkpoints/4.2.1 滑动平均类的保存-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/.ipynb_checkpoints/4.2.2 variables_to_restore函数的使用样例-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/.ipynb_checkpoints/4.3. pb文件保存方法-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/1. MNIST读取数据.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/2. TensorFlow训练神经网络/.ipynb_checkpoints/1. 全模型-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/2. TensorFlow训练神经网络/.ipynb_checkpoints/2. 不使用正则化-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/2. TensorFlow训练神经网络/.ipynb_checkpoints/3. 不使用指数衰减的学习率-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/2. TensorFlow训练神经网络/.ipynb_checkpoints/4. 不使用激活函数-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/2. TensorFlow训练神经网络/.ipynb_checkpoints/5. 不使用隐藏层-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/2. TensorFlow训练神经网络/.ipynb_checkpoints/6. 不使用滑动平均-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/2. TensorFlow训练神经网络/1. 全模型.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/2. TensorFlow训练神经网络/2. 不使用正则化.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/2. TensorFlow训练神经网络/3. 不使用指数衰减的学习率.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/2. TensorFlow训练神经网络/4. 不使用激活函数.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/2. TensorFlow训练神经网络/5. 不使用隐藏层.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/2. TensorFlow训练神经网络/6. 不使用滑动平均.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/3. 变量管理.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/4.1. ckpt文件保存方法.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/4.2.1 滑动平均类的保存.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/4.2.2 variables_to_restore函数的使用样例.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/4.3. pb文件保存方法.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/5. MNIST最佳实践/.ipynb_checkpoints/mnist_eval-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/5. MNIST最佳实践/.ipynb_checkpoints/mnist_inference-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/5. MNIST最佳实践/.ipynb_checkpoints/mnist_train-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/5. MNIST最佳实践/Data_sets/MNIST_data/train-images-idx3-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/5. MNIST最佳实践/Data_sets/MNIST_data/train-labels-idx1-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/5. MNIST最佳实践/mnist_eval.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/5. MNIST最佳实践/mnist_inference.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/5. MNIST最佳实践/mnist_inference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/5. MNIST最佳实践/mnist_train.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter05/5. MNIST最佳实践/mnist_train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter06/.ipynb_checkpoints/1. 卷积层、池化层样例-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter06/.ipynb_checkpoints/2. 迁移学习-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter06/.ipynb_checkpoints/2.1 data_process-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter06/.ipynb_checkpoints/2.2 fine_tuning-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter06/.ipynb_checkpoints/3.1 data_process-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter06/.ipynb_checkpoints/3.2 fine_tuning-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter06/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter06/.ipynb_checkpoints/data_process-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter06/.ipynb_checkpoints/fine_tuning-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter06/.ipynb_checkpoints/load_data-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter06/1. 卷积层、池化层样例.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter06/2.1 data_process.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter06/2.2 fine_tuning.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter06/LeNet-5/.ipynb_checkpoints/LeNet5_infernece-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter06/LeNet-5/.ipynb_checkpoints/LeNet5_train-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter06/LeNet-5/LeNet5_infernece.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter06/LeNet-5/LeNet5_infernece.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter06/LeNet-5/LeNet5_train.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter07/.ipynb_checkpoints/1. TFRecord样例程序-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter07/.ipynb_checkpoints/2.1. TensorFlow图像处理函数-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter07/.ipynb_checkpoints/2.2. 图像预处理完整样例-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter07/.ipynb_checkpoints/3. 队列操作-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter07/.ipynb_checkpoints/4. 多线程队列操作-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter07/.ipynb_checkpoints/5. 输入文件队列-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter07/.ipynb_checkpoints/6. 输入数据处理框架-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter07/.ipynb_checkpoints/7. 数据集基本使用方法-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter07/.ipynb_checkpoints/8. 数据集高层操作-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter07/1. TFRecord样例程序.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter07/2.1. TensorFlow图像处理函数.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter07/2.2. 图像预处理完整样例.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter07/3. 队列操作.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter07/4. 多线程队列操作.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter07/5. 输入文件队列.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter07/6. 输入数据处理框架.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter07/7. 数据集基本使用方法.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter07/8. 数据集高层操作.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter08/.ipynb_checkpoints/1. 循环神经网络前向传播-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter08/.ipynb_checkpoints/2. PTB数据集介绍-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter08/.ipynb_checkpoints/2. 预测正弦函数-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter08/.ipynb_checkpoints/3. 使用循环神经网络实现语言模型-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter08/.ipynb_checkpoints/4. SKlearn封装例子-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter08/.ipynb_checkpoints/5. 预测正弦函数-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter08/1. 循环神经网络前向传播.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter08/2. 预测正弦函数.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter09/1. 交叉熵损失函数样例.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter09/2. 文本数据预处理--生成词汇表.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter09/3. 文本数据预处理--生成训练文件.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter09/4. PTB 语言模型.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter09/5. Seq2Seq模型--训练.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter09/6. Seq2Seq模型--测试.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter09/7. Attention模型--训练.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter09/8. Attention模型--测试.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter09/en.vocab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter09/ptb.test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter09/ptb.train" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter09/ptb.valid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter09/ptb.vocab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter09/train.en" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter09/train.zh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter09/zh.vocab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter10/.ipynb_checkpoints/1. TensorFlow-Slim-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter10/.ipynb_checkpoints/10. Estimator-Dataset-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter10/.ipynb_checkpoints/2. TFLearn-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter10/.ipynb_checkpoints/3. Keras-CNN-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter10/.ipynb_checkpoints/4. Keras-RNN-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter10/.ipynb_checkpoints/5. Keras-返回值-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter10/.ipynb_checkpoints/6. Keras-多输入输出-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter10/.ipynb_checkpoints/7. Keras-TensorFlow API-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter10/.ipynb_checkpoints/8. Estimator-DNNClassifier-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter10/.ipynb_checkpoints/9. Estimator-自定义模型-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter10/1. TensorFlow-Slim.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter10/10. Estimator-Dataset.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter10/2. TFLearn.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter10/3. Keras-CNN.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter10/4. Keras-RNN.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter10/5. Keras-返回值.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter10/6. Keras-多输入输出.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter10/7. Keras-TensorFlow API.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter10/8. Estimator-DNNClassifier.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter10/9. Estimator-自定义模型.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter11/.ipynb_checkpoints/1. 命名空间-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter11/.ipynb_checkpoints/2. 改造后的mnist_train-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter11/.ipynb_checkpoints/3. 监控指标可视化-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter11/.ipynb_checkpoints/4.1. projector_data_prepare-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter11/.ipynb_checkpoints/4.2. projector_MNIST-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter11/.ipynb_checkpoints/MNIST_projector-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter11/.ipynb_checkpoints/data_prepare-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter11/1. 命名空间.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter11/2. 改造后的mnist_train.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter11/3. 监控指标可视化.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter11/4.1. projector_data_prepare.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter11/4.2. projector_MNIST.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter11/mnist_inference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter12/1. GPU基本操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter12/2. 多GPU并行.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter12/3. 分布式TensorFlow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter12/4. 异步更新模式样例程序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter12/5. 同步更新模式样例程序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/Chapter12/mnist_inference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/源代码/新建文本文档.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -205,21 +56,21 @@
     <session id="43123489">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.5" value="3" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="py" value="62" />
-          <entry key="txt" value="38" />
+          <entry key="txt" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="38" />
+          <entry key="PLAIN_TEXT" value="56" />
           <entry key="Python" value="62" />
         </counts>
       </usages-collector>
@@ -244,8 +95,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/源代码py/3. 完整神经网络样例程序.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="51" column="23" lean-forward="true" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+            <state relative-caret-position="535">
+              <caret line="59" column="49" selection-start-line="59" selection-start-column="49" selection-end-line="59" selection-end-column="49" />
               <folding>
                 <element signature="e#50#73#0" expanded="true" />
               </folding>
@@ -308,11 +159,6 @@
               <item name="aaa" type="b2602c69:ProjectViewProjectNode" />
               <item name="tensor-0427" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="aaa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tensor-0427" type="462c0819:PsiDirectoryNode" />
-              <item name="源代码py" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -322,7 +168,7 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="ver&#9;ACTION&#9;ActivateVersionControlToolWindow" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
@@ -444,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556355335276</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2019-4-27 23:43:14">
+      <created>1556379803351</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556379803351</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -460,12 +313,12 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20309168" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20522387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33116177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33116177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3995657" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -475,7 +328,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3257329" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32899022" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="12" visible="true" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -519,7 +372,8 @@
     <MESSAGE value="2019-4-27 14:46:02" />
     <MESSAGE value="2019-4-27 14:50:00" />
     <MESSAGE value="2019-4-27 16:55:28" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-4-27 16:55:28" />
+    <MESSAGE value="2019-4-27 23:43:14" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-4-27 23:43:14" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Envs/tsflow/Lib/site-packages/tensorflow/python/eager/imperative_grad.py">
@@ -603,9 +457,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-          <folding>
-            <element signature="e#27#50#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -625,8 +476,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/源代码py/3. 完整神经网络样例程序.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="51" column="23" lean-forward="true" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+        <state relative-caret-position="535">
+          <caret line="59" column="49" selection-start-line="59" selection-start-column="49" selection-end-line="59" selection-end-column="49" />
           <folding>
             <element signature="e#50#73#0" expanded="true" />
           </folding>
