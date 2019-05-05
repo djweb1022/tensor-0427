@@ -191,8 +191,7 @@ from keras import models
 from keras import layers
 
 model = models.Sequential()
-model.add(layers.Dense(64, activation='relu', input_shape=(10000,)))
-model.add(layers.Dense(32, activation='relu'))
+model.add(layers.Dense(16, activation='relu', input_shape=(10000,)))
 model.add(layers.Dense(16, activation='relu'))
 model.add(layers.Dense(1, activation='sigmoid'))
 
@@ -212,7 +211,7 @@ model.add(layers.Dense(1, activation='sigmoid'))
 
 model.compile(optimizer='rmsprop',
               loss='binary_crossentropy',
-              metrics=['acc'])
+              metrics=['accuracy'])
 
 
 # We are passing our optimizer, loss function and metrics as strings, which is possible because `rmsprop`, `binary_crossentropy` and 
